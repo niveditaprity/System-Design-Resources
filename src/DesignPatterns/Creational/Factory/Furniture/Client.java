@@ -1,4 +1,4 @@
-package DesignPatterns.Creational.AbstractFactory;
+package DesignPatterns.Creational.Factory.Furniture;
 
 import java.util.Scanner;
 

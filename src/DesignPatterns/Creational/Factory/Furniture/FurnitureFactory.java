@@ -1,4 +1,4 @@
-package DesignPatterns.Creational.AbstractFactory;
+package DesignPatterns.Creational.Factory.Furniture;
 
 public interface FurnitureFactory {
     Furniture createFurniture();
